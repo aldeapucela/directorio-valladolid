@@ -1,4 +1,5 @@
 import './style.css';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 // Configuración y Variables de Estado
 const API_URL = 'https://proyectos.aldeapucela.org/api/v1/db/public/shared-view/e8c5d5a2-bdaa-47c8-96de-3b9195129e7f/rows?limit=1000';
