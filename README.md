@@ -20,7 +20,7 @@ Directorio web de recursos de Valladolid, creado para la organización [Aldea Pu
    npm run dev
    ```
 
-## Características de la versión 0.1
+## Características de la versión 0.2
 
 - Diseño responsivo y moderno basado en eventos.aldeapucela.org.
 - Soporte para Modo Oscuro y Claro.

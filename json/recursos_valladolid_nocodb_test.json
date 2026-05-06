@@ -1,0 +1,2186 @@
+[
+  {
+    "nombre": "Ayuntamiento de Valladolid (portal web)",
+    "url": "https://www.valladolid.es",
+    "descripcion": "Portal web institucional del Ayuntamiento, noticias, áreas, servicios.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "ayuntamiento;institucional;ciudadanía;noticias;portal"
+  },
+  {
+    "nombre": "Sede Electrónica del Ayuntamiento",
+    "url": "https://www.valladolid.gob.es",
+    "descripcion": "Sede electrónica oficial: trámites, tablón, perfil contratante.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "sede-electrónica;trámites;e-administración;cl@ve"
+  },
+  {
+    "nombre": "Sede Electrónica (acceso alternativo)",
+    "url": "https://sede.valladolid.es",
+    "descripcion": "Acceso alternativo a la sede electrónica municipal.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "sede-electrónica;trámites;ciudadanía"
+  },
+  {
+    "nombre": "Portal de Transparencia Ayuntamiento",
+    "url": "https://www.valladolid.es/es/ayuntamiento/portal-transparencia",
+    "descripcion": "Información económica, organizativa y normativa municipal.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "transparencia;datos-abiertos;rendición-cuentas"
+  },
+  {
+    "nombre": "Portal de Participación Ciudadana",
+    "url": "https://www.valladolid.es/participa",
+    "descripcion": "Plataforma de participación, registro de asociaciones, presupuestos participativos.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "participación;asociaciones;democracia;ciudadanía"
+  },
+  {
+    "nombre": "Tablón Oficial Ayuntamiento",
+    "url": "https://www.valladolid.gob.es/es/tablon-oficial",
+    "descripcion": "Anuncios, edictos, empleo público y subvenciones.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "tablón;edictos;empleo-público;subvenciones"
+  },
+  {
+    "nombre": "Portal de Cultura y Turismo (Info Valladolid)",
+    "url": "https://www.info.valladolid.es",
+    "descripcion": "Portal oficial de turismo, agenda, monumentos y oficinas de turismo.",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "turismo;agenda;cultura;monumentos"
+  },
+  {
+    "nombre": "Sociedad Mixta para la Promoción del Turismo",
+    "url": "https://www.info.valladolid.es",
+    "descripcion": "Promoción turística municipal (entidad gestora).",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "turismo;promoción;visitas-guiadas"
+  },
+  {
+    "nombre": "Fundación Municipal de Cultura",
+    "url": "https://cultura.valladolid.es",
+    "descripcion": "Web de la Fundación Municipal de Cultura (FMC), programación cultural.",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "cultura;FMC;programación;teatro;música"
+  },
+  {
+    "nombre": "Fundación Municipal de Deportes",
+    "url": "https://www.fmdva.org",
+    "descripcion": "Instalaciones deportivas, eventos y clubes adscritos.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "deporte;instalaciones;FMD;clubes"
+  },
+  {
+    "nombre": "Agencia de Innovación IDEVA",
+    "url": "https://www.ideva.es",
+    "descripcion": "Agencia municipal de innovación y desarrollo económico, coworking lanzadera.",
+    "categoria": "Economía e innovación",
+    "oficial": true,
+    "etiquetas": "innovación;emprendimiento;coworking;startups"
+  },
+  {
+    "nombre": "AUVASA (autobuses urbanos)",
+    "url": "https://www.auvasa.es",
+    "descripcion": "Empresa municipal de autobuses urbanos de Valladolid.",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "autobuses;movilidad;empresa-municipal;transporte-público"
+  },
+  {
+    "nombre": "App AUVASA Bus",
+    "url": "http://www.auvasa.es/auv_app.asp",
+    "descripcion": "App oficial para tiempos de espera y rutas de bus.",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "app;movilidad;tiempos-espera"
+  },
+  {
+    "nombre": "App AUVASA Pay",
+    "url": "https://play.google.com/store/apps/details?id=es.auvasapay.auvasapay",
+    "descripcion": "App de pago de transporte por QR y recarga de tarjetas.",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "app;pago;QR;recarga"
+  },
+  {
+    "nombre": "AQUAVALL (Agua de Valladolid EPE)",
+    "url": "https://aquavall.es",
+    "descripcion": "Entidad pública municipal del ciclo integral del agua.",
+    "categoria": "Servicios municipales",
+    "oficial": true,
+    "etiquetas": "agua;ciclo-integral;empresa-municipal;medio-ambiente"
+  },
+  {
+    "nombre": "VIVA – Sociedad Municipal de Suelo y Vivienda",
+    "url": "https://www.vivavalladolid.es",
+    "descripcion": "Sociedad municipal de suelo y vivienda.",
+    "categoria": "Vivienda",
+    "oficial": true,
+    "etiquetas": "vivienda;VPO;suelo;empresa-municipal"
+  },
+  {
+    "nombre": "NEVASA (servicios funerarios)",
+    "url": "https://www.nevasa.es",
+    "descripcion": "Empresa municipal de servicios funerarios y cementerios.",
+    "categoria": "Servicios municipales",
+    "oficial": true,
+    "etiquetas": "funeraria;cementerios;empresa-municipal"
+  },
+  {
+    "nombre": "Feria de Valladolid (Recinto Ferial)",
+    "url": "https://www.feriavalladolid.com",
+    "descripcion": "Consorcio de la Feria de Muestras: ferias, congresos y eventos.",
+    "categoria": "Economía y eventos",
+    "oficial": true,
+    "etiquetas": "feria;congresos;eventos;recinto-ferial"
+  },
+  {
+    "nombre": "Cúpula del Milenio",
+    "url": "https://www.valladolid.com/cupula-milenio",
+    "descripcion": "Espacio multiusos para conciertos y eventos en Plaza del Milenio.",
+    "categoria": "Cultura y eventos",
+    "oficial": false,
+    "etiquetas": "espacio-eventos;conciertos;cúpula"
+  },
+  {
+    "nombre": "Portal ZBE Valladolid",
+    "url": "https://zbe.valladolid.es",
+    "descripcion": "Plataforma de gestión de la Zona de Bajas Emisiones.",
+    "categoria": "Movilidad",
+    "oficial": true,
+    "etiquetas": "ZBE;medio-ambiente;movilidad;sanciones"
+  },
+  {
+    "nombre": "Valladolid ORA (Telpark/Dornier)",
+    "url": "https://valladolidora.com",
+    "descripcion": "Servicio de estacionamiento regulado (zona azul/naranja).",
+    "categoria": "Movilidad",
+    "oficial": true,
+    "etiquetas": "ORA;aparcamiento;zona-azul;Telpark"
+  },
+  {
+    "nombre": "VallaBus (no oficial)",
+    "url": "https://vallabus.com",
+    "descripcion": "Web/app no oficial para horarios bus AUVASA y áreas metropolitanas.",
+    "categoria": "Transporte",
+    "oficial": false,
+    "etiquetas": "bus;horarios;app;AUVASA;no-oficial"
+  },
+  {
+    "nombre": "Moovit Valladolid",
+    "url": "https://moovitapp.com/index/es/transporte_p%C3%BAblico-Valladolid-2781",
+    "descripcion": "App de movilidad multimodal con datos de AUVASA.",
+    "categoria": "Transporte",
+    "oficial": false,
+    "etiquetas": "movilidad;app;multimodal"
+  },
+  {
+    "nombre": "Estación Valladolid Campo Grande (Renfe)",
+    "url": "https://www.renfe.com/es/es/inspirate/estaciones/valladolid-campo-grande",
+    "descripcion": "Información Renfe de la estación de Campo Grande (AVE, LD, MD).",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "tren;AVE;Renfe;estación"
+  },
+  {
+    "nombre": "Adif Valladolid Campo Grande",
+    "url": "https://www.adif.es/w/10600-valladolid-c.-g.",
+    "descripcion": "Ficha de Adif sobre la estación.",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "tren;Adif;infraestructura"
+  },
+  {
+    "nombre": "Aeropuerto de Valladolid (Aena)",
+    "url": "https://www.aena.es/es/valladolid.html",
+    "descripcion": "Aeropuerto de Villanubla gestionado por Aena.",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "aeropuerto;Villanubla;Aena;vuelos"
+  },
+  {
+    "nombre": "Estación de Autobuses de Valladolid",
+    "url": "https://www.estacionautobusesvalladolid.es",
+    "descripcion": "Estación de autobuses interurbanos.",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "autobuses;interurbano;estación"
+  },
+  {
+    "nombre": "Linecar (bus aeropuerto y rutas)",
+    "url": "https://www.linecar.es",
+    "descripcion": "Operador de la línea de bus aeropuerto–estación–centro.",
+    "categoria": "Transporte",
+    "oficial": false,
+    "etiquetas": "bus;aeropuerto;Linecar"
+  },
+  {
+    "nombre": "Información Turística Valladolid",
+    "url": "https://www.info.valladolid.es",
+    "descripcion": "Oficinas de turismo, rutas, Valladolid Card.",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "turismo;Valladolid-Card;rutas"
+  },
+  {
+    "nombre": "Provincia de Valladolid (Diputación-Turismo)",
+    "url": "https://www.provinciadevalladolid.com",
+    "descripcion": "Portal de turismo provincial (relevante también para la ciudad).",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "turismo;provincia;Diputación"
+  },
+  {
+    "nombre": "Valladolid.com (guía no oficial)",
+    "url": "https://www.valladolid.com",
+    "descripcion": "Guía turística no oficial sobre la ciudad.",
+    "categoria": "Cultura y turismo",
+    "oficial": false,
+    "etiquetas": "guía;turismo;blog"
+  },
+  {
+    "nombre": "Visitar Valladolid",
+    "url": "https://www.visitarvalladolid.com",
+    "descripcion": "Guía de viajes y agenda no oficial.",
+    "categoria": "Cultura y turismo",
+    "oficial": false,
+    "etiquetas": "guía;agenda;turismo"
+  },
+  {
+    "nombre": "Ocio Valladolid",
+    "url": "https://ociovalladolid.com",
+    "descripcion": "Portal de planes, ocio y agenda cultural.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "agenda;ocio;planes;blog"
+  },
+  {
+    "nombre": "La Guía Go Valladolid",
+    "url": "https://www.laguiago.com/valladolid",
+    "descripcion": "Agenda cultural, conciertos, restaurantes y exposiciones.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "agenda;cultura;ocio"
+  },
+  {
+    "nombre": "Vadeocio",
+    "url": "https://vadeocio.com",
+    "descripcion": "Agenda de ocio y promoción de eventos en Valladolid.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "agenda;eventos;promoción"
+  },
+  {
+    "nombre": "Cierra por Fuera",
+    "url": "https://www.cierraporfuera.com/valladolid",
+    "descripcion": "Agenda cultural y guía de locales.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "agenda;ocio;guía"
+  },
+  {
+    "nombre": "Top Valladolid",
+    "url": "https://www.topvalladolid.com",
+    "descripcion": "Directorio de negocios y guía local.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "directorio;guía;negocios"
+  },
+  {
+    "nombre": "El Gusanillo (cartelera)",
+    "url": "https://elgusanillo.com/ocio/cine/cartelera.asp",
+    "descripcion": "Cartelera de cine y agenda cultural local.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "cartelera;cine;agenda"
+  },
+  {
+    "nombre": "Chiquiocio Valladolid",
+    "url": "https://www.chiquiocio.com/agenda",
+    "descripcion": "Agenda de actividades para familias y niños.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "familia;niños;agenda"
+  },
+  {
+    "nombre": "Valladolid Adelante",
+    "url": "https://www.valladolidadelante.es",
+    "descripcion": "Blog/guía local sobre la ciudad.",
+    "categoria": "Agenda y ocio",
+    "oficial": false,
+    "etiquetas": "guía;blog;ciudad"
+  },
+  {
+    "nombre": "Museo Nacional de Escultura",
+    "url": "https://www.cultura.gob.es/mnescultura",
+    "descripcion": "Museo estatal en San Gregorio, escultura policromada.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;escultura;estatal;patrimonio"
+  },
+  {
+    "nombre": "Museo de Valladolid (Junta CyL)",
+    "url": "https://museoscastillayleon.jcyl.es/museodevalladolid",
+    "descripcion": "Museo provincial de arqueología y bellas artes (Palacio Fabio Nelli).",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;arqueología;bellas-artes;Junta"
+  },
+  {
+    "nombre": "Museo Patio Herreriano",
+    "url": "https://museoph.org",
+    "descripcion": "Museo de arte contemporáneo español.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;arte-contemporáneo"
+  },
+  {
+    "nombre": "Museo de la Ciencia de Valladolid",
+    "url": "https://www.museocienciavalladolid.es",
+    "descripcion": "Museo de la Ciencia, planetario, exposiciones.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;ciencia;planetario;FMC"
+  },
+  {
+    "nombre": "Museo Casa de Cervantes",
+    "url": "https://www.cultura.gob.es/museocasacervantes/portada.html",
+    "descripcion": "Casa-museo del autor del Quijote.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;Cervantes;casa-museo;estatal"
+  },
+  {
+    "nombre": "Casa-Museo José Zorrilla",
+    "url": "https://museoscastillayleon.jcyl.es/.../1284809941628",
+    "descripcion": "Casa natal del poeta José Zorrilla.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;Zorrilla;casa-museo"
+  },
+  {
+    "nombre": "Casa-Museo de Colón",
+    "url": "https://www.casamuseodecolon.com",
+    "descripcion": "Casa Museo de Cristóbal Colón.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;Colón;casa-museo"
+  },
+  {
+    "nombre": "Museo Oriental de Valladolid",
+    "url": "https://www.museo-oriental.es",
+    "descripcion": "Museo de los Agustinos Filipinos, arte oriental.",
+    "categoria": "Museos",
+    "oficial": false,
+    "etiquetas": "museo;oriental;Filipinas;China"
+  },
+  {
+    "nombre": "Museo de la Universidad (MUVa)",
+    "url": "https://www.uva.es/export/sites/uva/6.vidauniversitaria/6.01.cultura/6.01.05.museos/",
+    "descripcion": "Museo de la UVa: historia/arte, ciencias naturales y biomédicas.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;UVa;universitario"
+  },
+  {
+    "nombre": "Museo de la Academia de Caballería",
+    "url": "https://ejercito.defensa.gob.es/unidades/Valladolid/acab/index.html",
+    "descripcion": "Museo militar de la Academia de Caballería.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;militar;Academia-Caballería"
+  },
+  {
+    "nombre": "Fundación Cristóbal Gabarrón",
+    "url": "https://www.gabarron.org",
+    "descripcion": "Museo y fundación dedicados al artista Cristóbal Gabarrón.",
+    "categoria": "Museos",
+    "oficial": false,
+    "etiquetas": "museo;arte;fundación"
+  },
+  {
+    "nombre": "Fundación Alberto Jiménez-Arellano Alonso (UVa)",
+    "url": "https://museoarellanoalonso.uva.es",
+    "descripcion": "Colecciones de arte africano y otras adscritas a la UVa.",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;UVa;arte-africano"
+  },
+  {
+    "nombre": "Teatro Calderón",
+    "url": "https://tcalderon.com",
+    "descripcion": "Principal teatro de la ciudad, programación lírica y escénica.",
+    "categoria": "Cultura escénica",
+    "oficial": true,
+    "etiquetas": "teatro;ópera;FMC;Calderón"
+  },
+  {
+    "nombre": "Teatro Zorrilla",
+    "url": "https://www.teatrozorrilla.es",
+    "descripcion": "Teatro privado en plaza Mayor, programación variada.",
+    "categoria": "Cultura escénica",
+    "oficial": false,
+    "etiquetas": "teatro;privado;Zorrilla"
+  },
+  {
+    "nombre": "Teatro Carrión",
+    "url": "https://www.teatrocarrion.com",
+    "descripcion": "Teatro histórico privado del centro.",
+    "categoria": "Cultura escénica",
+    "oficial": false,
+    "etiquetas": "teatro;privado;Carrión"
+  },
+  {
+    "nombre": "Teatro Cervantes",
+    "url": "https://www.teatrocervantesvalladolid.es",
+    "descripcion": "Teatro Cervantes, programación local.",
+    "categoria": "Cultura escénica",
+    "oficial": false,
+    "etiquetas": "teatro;Cervantes"
+  },
+  {
+    "nombre": "LAVA – Laboratorio de las Artes",
+    "url": "https://lavavll.es",
+    "descripcion": "Equipamiento escénico municipal en el antiguo matadero.",
+    "categoria": "Cultura escénica",
+    "oficial": true,
+    "etiquetas": "teatro;artes-escénicas;FMC;LAVA"
+  },
+  {
+    "nombre": "Centro Cultural Miguel Delibes",
+    "url": "https://www.centroculturalmigueldelibes.com",
+    "descripcion": "Auditorio sede de la OSCyL (autonómico, en Valladolid).",
+    "categoria": "Cultura escénica",
+    "oficial": true,
+    "etiquetas": "auditorio;OSCyL;música-clásica"
+  },
+  {
+    "nombre": "SEMINCI – Semana Internacional de Cine",
+    "url": "https://www.seminci.com",
+    "descripcion": "Festival Internacional de Cine de Valladolid.",
+    "categoria": "Festivales",
+    "oficial": true,
+    "etiquetas": "cine;festival;SEMINCI;cultura"
+  },
+  {
+    "nombre": "TAC – Festival de Teatro y Artes de Calle",
+    "url": "https://tacva.org",
+    "descripcion": "Festival Internacional de Teatro y Artes de Calle.",
+    "categoria": "Festivales",
+    "oficial": true,
+    "etiquetas": "teatro-calle;festival;TAC;FMC"
+  },
+  {
+    "nombre": "Pingüinos – Club Turismoto",
+    "url": "https://www.clubturismoto.com",
+    "descripcion": "Concentración motera invernal internacional.",
+    "categoria": "Festivales",
+    "oficial": false,
+    "etiquetas": "motos;Pingüinos;invierno;turismoto"
+  },
+  {
+    "nombre": "Feria del Libro de Valladolid",
+    "url": "https://www.feriadellibrovalladolid.com",
+    "descripcion": "Feria del Libro anual en Acera de Recoletos.",
+    "categoria": "Festivales",
+    "oficial": false,
+    "etiquetas": "libro;feria;literatura"
+  },
+  {
+    "nombre": "Junta de Cofradías de Semana Santa",
+    "url": "https://jcssva.org",
+    "descripcion": "Web oficial de la Semana Santa de Valladolid.",
+    "categoria": "Religión y tradiciones",
+    "oficial": true,
+    "etiquetas": "Semana-Santa;cofradías;procesiones"
+  },
+  {
+    "nombre": "Valladolid Cofrade",
+    "url": "https://www.valladolidcofrade.com",
+    "descripcion": "Portal informativo no oficial sobre Semana Santa.",
+    "categoria": "Religión y tradiciones",
+    "oficial": false,
+    "etiquetas": "Semana-Santa;blog;cofrade"
+  },
+  {
+    "nombre": "Archidiócesis de Valladolid",
+    "url": "https://www.archivalladolid.org",
+    "descripcion": "Web oficial del Arzobispado de Valladolid.",
+    "categoria": "Religión y tradiciones",
+    "oficial": true,
+    "etiquetas": "iglesia;arzobispado;parroquias"
+  },
+  {
+    "nombre": "Archivo General Diocesano",
+    "url": "https://www.archivogeneraldiocesano-va.com",
+    "descripcion": "Archivo histórico diocesano.",
+    "categoria": "Religión y tradiciones",
+    "oficial": true,
+    "etiquetas": "archivo;diócesis;libros-sacramentales"
+  },
+  {
+    "nombre": "Universidad de Valladolid (UVa)",
+    "url": "https://www.uva.es",
+    "descripcion": "Web institucional de la UVa, segunda universidad más antigua de España.",
+    "categoria": "Educación superior",
+    "oficial": true,
+    "etiquetas": "universidad;UVa;pública;grados"
+  },
+  {
+    "nombre": "UVa Internacional",
+    "url": "https://universityofvalladolid.uva.es",
+    "descripcion": "Portal internacional de la UVa para estudiantes extranjeros.",
+    "categoria": "Educación superior",
+    "oficial": true,
+    "etiquetas": "universidad;internacional;UVa"
+  },
+  {
+    "nombre": "Universidad Europea Miguel de Cervantes (UEMC)",
+    "url": "https://www.uemc.es",
+    "descripcion": "Universidad privada con sede en Valladolid.",
+    "categoria": "Educación superior",
+    "oficial": true,
+    "etiquetas": "universidad;privada;UEMC"
+  },
+  {
+    "nombre": "Escuela Superior de Diseño ESI",
+    "url": "https://www.esivalladolid.com",
+    "descripcion": "Centro privado de formación en diseño y tecnología.",
+    "categoria": "Educación superior",
+    "oficial": false,
+    "etiquetas": "diseño;ESI;formación"
+  },
+  {
+    "nombre": "Escuela Internacional de Cocina Fernando Pérez",
+    "url": "https://www.escueladecocinavalladolid.es",
+    "descripcion": "Escuela de cocina dependiente de la Cámara de Comercio.",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "cocina;FP;Cámara-Comercio;fp"
+  },
+  {
+    "nombre": "Bibliotecas Municipales de Valladolid",
+    "url": "https://www.valladolid.es/es/temas/hacemos/bibliotecas",
+    "descripcion": "Red municipal de bibliotecas y catálogo.",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "biblioteca;FMC;lectura;red;bibliotecas"
+  },
+  {
+    "nombre": "Biblioteca Pública de Castilla y León",
+    "url": "https://bibliotecas.jcyl.es",
+    "descripcion": "Biblioteca pública estatal/autonómica en Valladolid.",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "biblioteca;Junta;pública;bibliotecas"
+  },
+  {
+    "nombre": "Biblioteca UVa",
+    "url": "https://biblioteca.uva.es",
+    "descripcion": "Servicio de biblioteca de la Universidad de Valladolid.",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "biblioteca;UVa;universitaria;bibliotecas"
+  },
+  {
+    "nombre": "Conservatorio Profesional de Música de Valladolid",
+    "url": "https://conservatoriovalladolid.centros.educa.jcyl.es",
+    "descripcion": "Conservatorio Profesional de Música.",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "conservatorio;música;Junta"
+  },
+  {
+    "nombre": "Escuela Oficial de Idiomas de Valladolid",
+    "url": "http://www.eoi.valladolid.es",
+    "descripcion": "EOI pública con sede en Valladolid.",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "idiomas;EOI;Junta"
+  },
+  {
+    "nombre": "Hospital Clínico Universitario de Valladolid",
+    "url": "https://www.saludcastillayleon.es/HClinicoUniversitario",
+    "descripcion": "Hospital público referencia área Valladolid Este.",
+    "categoria": "Salud",
+    "oficial": true,
+    "etiquetas": "hospital;Sacyl;Clínico;sanidad"
+  },
+  {
+    "nombre": "Hospital Universitario Río Hortega",
+    "url": "https://www.saludcastillayleon.es/HRHortega",
+    "descripcion": "Hospital público referencia área Valladolid Oeste.",
+    "categoria": "Salud",
+    "oficial": true,
+    "etiquetas": "hospital;Sacyl;Río-Hortega"
+  },
+  {
+    "nombre": "Sacyl – Sanidad Castilla y León",
+    "url": "https://www.saludcastillayleon.es",
+    "descripcion": "Servicio público de salud autonómico (cita previa, tarjeta).",
+    "categoria": "Salud",
+    "oficial": true,
+    "etiquetas": "Sacyl;sanidad;cita-previa"
+  },
+  {
+    "nombre": "Hospital Recoletas Felipe II",
+    "url": "https://www.recoletas.com/hospitales/valladolid",
+    "descripcion": "Hospital privado del grupo Recoletas.",
+    "categoria": "Salud",
+    "oficial": false,
+    "etiquetas": "hospital;privado;Recoletas"
+  },
+  {
+    "nombre": "Hospital Campo Grande",
+    "url": "https://www.hospitalcampogrande.com",
+    "descripcion": "Hospital privado en pleno centro de Valladolid.",
+    "categoria": "Salud",
+    "oficial": false,
+    "etiquetas": "hospital;privado;Campo-Grande"
+  },
+  {
+    "nombre": "Real Valladolid CF",
+    "url": "https://www.realvalladolid.es",
+    "descripcion": "Web oficial del club de fútbol Real Valladolid.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "fútbol;Real-Valladolid;LaLiga"
+  },
+  {
+    "nombre": "Tienda Real Valladolid",
+    "url": "https://tienda.realvalladolid.es",
+    "descripcion": "Tienda online oficial del Real Valladolid.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "tienda;merchandising;fútbol;comercio"
+  },
+  {
+    "nombre": "CB Ciudad de Valladolid",
+    "url": "https://cbcvalladolid.com",
+    "descripcion": "Club Baloncesto Ciudad de Valladolid.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "baloncesto;CBCV"
+  },
+  {
+    "nombre": "VRAC Quesos Entrepinares",
+    "url": "https://vracrugby.com",
+    "descripcion": "Club de rugby VRAC, División de Honor.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "rugby;VRAC;Pepe-Rojo"
+  },
+  {
+    "nombre": "CR El Salvador",
+    "url": "https://www.rugbyelsalvador.com",
+    "descripcion": "Club de Rugby El Salvador (Hermi/Chamizos).",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "rugby;El-Salvador;Pepe-Rojo"
+  },
+  {
+    "nombre": "Atlético Valladolid (balonmano)",
+    "url": "https://www.atleticovalladolid.com",
+    "descripcion": "Club de balonmano Atlético Valladolid.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "balonmano;Atlético-Valladolid"
+  },
+  {
+    "nombre": "Media Maratón Ciudad de Valladolid",
+    "url": "https://www.mediamaratonvalladolid.com",
+    "descripcion": "Web oficial de la Media Maratón y la Legua Popular.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "running;media-maratón;atletismo;eventos"
+  },
+  {
+    "nombre": "Atletas Populares de Valladolid",
+    "url": "https://www.atletaspopulares.es",
+    "descripcion": "Club organizador de la Media Maratón y otras pruebas.",
+    "categoria": "Deporte",
+    "oficial": false,
+    "etiquetas": "atletismo;club;running"
+  },
+  {
+    "nombre": "El Norte de Castilla",
+    "url": "https://www.elnortedecastilla.es",
+    "descripcion": "Decano de la prensa local, fundado en 1854.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "prensa;diario;local"
+  },
+  {
+    "nombre": "El Día de Valladolid",
+    "url": "https://www.eldiadevalladolid.com",
+    "descripcion": "Diario digital local.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "prensa;digital;diario"
+  },
+  {
+    "nombre": "Tribuna de Valladolid",
+    "url": "https://www.tribunavalladolid.com",
+    "descripcion": "Diario digital local.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "prensa;digital;Tribuna"
+  },
+  {
+    "nombre": "Diario de Valladolid (Grupo Promecal)",
+    "url": "https://www.diariodevalladolid.es",
+    "descripcion": "Edición Valladolid del grupo Promecal.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "prensa;diario;Promecal"
+  },
+  {
+    "nombre": "Última Hora de Valladolid",
+    "url": "https://www.ultimahoradevalladolid.com",
+    "descripcion": "Periódico digital local.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "prensa;digital;Última-Hora"
+  },
+  {
+    "nombre": "Cadena SER Valladolid",
+    "url": "https://cadenaser.com/emisora/radio_valladolid",
+    "descripcion": "Emisora local de la Cadena SER.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "radio;SER;EAJ-47"
+  },
+  {
+    "nombre": "COPE Valladolid",
+    "url": "https://www.cope.es/emisoras/castilla-y-leon/valladolid-provincia/valladolid",
+    "descripcion": "Emisora local de COPE.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "radio;COPE"
+  },
+  {
+    "nombre": "Onda Cero Valladolid",
+    "url": "https://www.ondacero.es/emisoras/castilla-leon/valladolid",
+    "descripcion": "Emisora local de Onda Cero.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "radio;Onda-Cero"
+  },
+  {
+    "nombre": "esRadio Castilla y León",
+    "url": "https://esradio.libertaddigital.com/castillayleon",
+    "descripcion": "Emisora regional con desconexiones en Valladolid.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "radio;esRadio"
+  },
+  {
+    "nombre": "RNE Valladolid",
+    "url": "https://www.rtve.es/radio/rne",
+    "descripcion": "Emisión local de Radio Nacional.",
+    "categoria": "Medios de comunicación",
+    "oficial": true,
+    "etiquetas": "radio;RNE;pública"
+  },
+  {
+    "nombre": "TV Castilla y León (CyLTV)",
+    "url": "https://www.cyltv.es",
+    "descripcion": "Televisión autonómica privada con cobertura en Valladolid.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "televisión;autonómica"
+  },
+  {
+    "nombre": "La 8 Valladolid",
+    "url": "https://la8valladolid.es",
+    "descripcion": "Televisión local del grupo Promecal.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "televisión;local;La-8"
+  },
+  {
+    "nombre": "7TV Valladolid",
+    "url": "https://7tvvalladolid.es",
+    "descripcion": "Cadena de televisión local.",
+    "categoria": "Medios de comunicación",
+    "oficial": false,
+    "etiquetas": "televisión;local"
+  },
+  {
+    "nombre": "Radio Universitaria UVa",
+    "url": "https://radio.uva.es",
+    "descripcion": "Radio Universitaria de la Universidad de Valladolid.",
+    "categoria": "Medios de comunicación",
+    "oficial": true,
+    "etiquetas": "radio;universitaria;UVa"
+  },
+  {
+    "nombre": "Mercado del Val",
+    "url": "https://www.mercadodelval.es",
+    "descripcion": "Mercado municipal central, primer mercado bioclimático.",
+    "categoria": "Comercio y mercados",
+    "oficial": true,
+    "etiquetas": "mercado;gastronomía;centro"
+  },
+  {
+    "nombre": "Mercados de Valladolid (plataforma)",
+    "url": "https://www.mercadosdevalladolid.com",
+    "descripcion": "Plataforma municipal de venta online de mercados.",
+    "categoria": "Comercio y mercados",
+    "oficial": true,
+    "etiquetas": "e-commerce;mercados;plataforma"
+  },
+  {
+    "nombre": "Emprende Mercados Valladolid",
+    "url": "https://emprendemercadosvalladolid.es",
+    "descripcion": "Portal de licitaciones y emprendimiento en mercados.",
+    "categoria": "Comercio y mercados",
+    "oficial": true,
+    "etiquetas": "emprendimiento;mercados;licitación"
+  },
+  {
+    "nombre": "Centro Comercial Vallsur",
+    "url": "https://vallsur.com",
+    "descripcion": "Centro comercial al sur del Paseo de Zorrilla.",
+    "categoria": "Comercio",
+    "oficial": false,
+    "etiquetas": "centro-comercial;Vallsur;Zorrilla"
+  },
+  {
+    "nombre": "Centro Comercial Río Shopping",
+    "url": "https://www.rioshopping.es",
+    "descripcion": "Mayor centro comercial de Castilla y León (Arroyo, área metro).",
+    "categoria": "Comercio",
+    "oficial": false,
+    "etiquetas": "centro-comercial;Río-Shopping;Ikea"
+  },
+  {
+    "nombre": "Cámara de Comercio de Valladolid",
+    "url": "https://www.camaravalladolid.com",
+    "descripcion": "Cámara Oficial de Comercio, Industria y Servicios.",
+    "categoria": "Economía",
+    "oficial": true,
+    "etiquetas": "cámara;comercio;empresa"
+  },
+  {
+    "nombre": "Sede electrónica Cámara",
+    "url": "https://sede.camara.es/sede/valladolid",
+    "descripcion": "Sede electrónica de la Cámara de Valladolid.",
+    "categoria": "Economía",
+    "oficial": true,
+    "etiquetas": "sede;Cámara;trámites"
+  },
+  {
+    "nombre": "FECOSVA – Federación Comercio",
+    "url": "https://fecosva.com",
+    "descripcion": "Federación de comercio y servicios de Valladolid.",
+    "categoria": "Comercio",
+    "oficial": false,
+    "etiquetas": "federación;comercio;FECOSVA"
+  },
+  {
+    "nombre": "AVADECO",
+    "url": "https://avadeco.es",
+    "descripcion": "Agrupación Vallisoletana de Comercio.",
+    "categoria": "Comercio",
+    "oficial": false,
+    "etiquetas": "comercio;asociación;centro"
+  },
+  {
+    "nombre": "App \"De compras por Valladolid\"",
+    "url": "https://www.decomprasporvalladolid.com",
+    "descripcion": "App y web del Ayuntamiento de comercio de proximidad.",
+    "categoria": "Comercio",
+    "oficial": true,
+    "etiquetas": "app;comercio-proximidad;ayuntamiento"
+  },
+  {
+    "nombre": "Asociación Provincial de Empresarios de Hostelería",
+    "url": "https://www.hosteleriavalladolid.com",
+    "descripcion": "Patronal de la hostelería vallisoletana.",
+    "categoria": "Hostelería",
+    "oficial": false,
+    "etiquetas": "hostelería;asociación;empresarios"
+  },
+  {
+    "nombre": "Concurso Nacional de Pinchos y Tapas",
+    "url": "https://www.concursonacionaldepinchosytapas.com",
+    "descripcion": "Web oficial del concurso nacional y mundial de tapas.",
+    "categoria": "Gastronomía",
+    "oficial": true,
+    "etiquetas": "tapas;pinchos;concurso;turismo"
+  },
+  {
+    "nombre": "D.O. Ribera del Duero",
+    "url": "https://www.riberadelduero.es",
+    "descripcion": "Consejo Regulador con sede en Roa, relevante para Valladolid.",
+    "categoria": "Gastronomía",
+    "oficial": true,
+    "etiquetas": "vino;Ribera-del-Duero;DO"
+  },
+  {
+    "nombre": "D.O. Rueda",
+    "url": "https://www.dorueda.com",
+    "descripcion": "Consejo Regulador D.O. Rueda.",
+    "categoria": "Gastronomía",
+    "oficial": true,
+    "etiquetas": "vino;Rueda;DO"
+  },
+  {
+    "nombre": "D.O. Cigales",
+    "url": "https://www.do-cigales.es",
+    "descripcion": "Consejo Regulador D.O. Cigales.",
+    "categoria": "Gastronomía",
+    "oficial": true,
+    "etiquetas": "vino;Cigales;DO"
+  },
+  {
+    "nombre": "Cofradías y Hermandades (JCSSVA)",
+    "url": "https://jcssva.org/cofradias",
+    "descripcion": "Listado oficial de cofradías de Semana Santa.",
+    "categoria": "Religión y tradiciones",
+    "oficial": true,
+    "etiquetas": "cofradías;Semana-Santa"
+  },
+  {
+    "nombre": "Catedral de Valladolid",
+    "url": "https://catedral-valladolid.com",
+    "descripcion": "Web del Cabildo de la Catedral.",
+    "categoria": "Religión y tradiciones",
+    "oficial": true,
+    "etiquetas": "catedral;cabildo;patrimonio"
+  },
+  {
+    "nombre": "Federación Asoc. Vecinales Antonio Machado",
+    "url": "https://www.vecinosvalladolid.org",
+    "descripcion": "Federación provincial de asociaciones vecinales.",
+    "categoria": "Asociaciones",
+    "oficial": false,
+    "etiquetas": "vecinos;federación;barrios"
+  },
+  {
+    "nombre": "Repositorio Federación Vecinal",
+    "url": "https://repositorio.vecinosvalladolid.org",
+    "descripcion": "Archivo histórico de la Federación.",
+    "categoria": "Asociaciones",
+    "oficial": false,
+    "etiquetas": "vecinos;archivo;documentación"
+  },
+  {
+    "nombre": "Cáritas Diocesana de Valladolid",
+    "url": "https://www.caritasvalladolid.es",
+    "descripcion": "Cáritas Diocesana, acción social de la Iglesia.",
+    "categoria": "ONGs y servicios sociales",
+    "oficial": true,
+    "etiquetas": "ONG;solidaridad;Cáritas"
+  },
+  {
+    "nombre": "Cruz Roja Valladolid",
+    "url": "https://www.cruzroja.es/principal/web/valladolid",
+    "descripcion": "Asamblea provincial de Cruz Roja.",
+    "categoria": "ONGs y servicios sociales",
+    "oficial": true,
+    "etiquetas": "ONG;Cruz-Roja;voluntariado"
+  },
+  {
+    "nombre": "Banco de Alimentos de Valladolid",
+    "url": "https://www.bancoalimentosvalladolid.org",
+    "descripcion": "Banco de alimentos provincial.",
+    "categoria": "ONGs y servicios sociales",
+    "oficial": false,
+    "etiquetas": "alimentos;voluntariado;ONG"
+  },
+  {
+    "nombre": "ONCE Valladolid",
+    "url": "https://www.once.es",
+    "descripcion": "Delegación territorial ONCE.",
+    "categoria": "ONGs y servicios sociales",
+    "oficial": true,
+    "etiquetas": "ONCE;discapacidad"
+  },
+  {
+    "nombre": "Manos Unidas Valladolid",
+    "url": "https://www.manosunidas.org/delegacion/valladolid",
+    "descripcion": "Delegación local de Manos Unidas.",
+    "categoria": "ONGs y servicios sociales",
+    "oficial": true,
+    "etiquetas": "ONG;cooperación;Iglesia"
+  },
+  {
+    "nombre": "ASPAYM Castilla y León",
+    "url": "https://www.aspaymcyl.org",
+    "descripcion": "Asociación de personas con lesión medular y discapacidad.",
+    "categoria": "ONGs y servicios sociales",
+    "oficial": false,
+    "etiquetas": "discapacidad;ONG;ASPAYM"
+  },
+  {
+    "nombre": "Asprona Valladolid",
+    "url": "https://www.aspronavalladolid.es",
+    "descripcion": "Asociación a favor de personas con discapacidad intelectual.",
+    "categoria": "ONGs y servicios sociales",
+    "oficial": false,
+    "etiquetas": "discapacidad;ONG;Asprona"
+  },
+  {
+    "nombre": "Servicios Sociales Municipales",
+    "url": "https://www.valladolid.es/es/temas/hacemos/servicios-sociales",
+    "descripcion": "Información y centros de servicios sociales del Ayuntamiento.",
+    "categoria": "Servicios sociales",
+    "oficial": true,
+    "etiquetas": "servicios-sociales;CEAS;ayuntamiento"
+  },
+  {
+    "nombre": "Espacio Joven Norte / Sur (Juventud)",
+    "url": "https://www.juventudvalladolid.es",
+    "descripcion": "Servicios y programas para la juventud municipal.",
+    "categoria": "Juventud",
+    "oficial": true,
+    "etiquetas": "juventud;Espacio-Joven;ayuntamiento"
+  },
+  {
+    "nombre": "Centros de Vida Activa Mayores",
+    "url": "https://www.valladolid.es/es/temas/hacemos/centros-vida-activa",
+    "descripcion": "Red municipal de centros para personas mayores.",
+    "categoria": "Mayores",
+    "oficial": true,
+    "etiquetas": "mayores;CVA;ayuntamiento"
+  },
+  {
+    "nombre": "Policía Municipal de Valladolid",
+    "url": "https://www.valladolid.es/es/temas/hacemos/policia-municipal",
+    "descripcion": "Información y trámites de la Policía Municipal.",
+    "categoria": "Seguridad",
+    "oficial": true,
+    "etiquetas": "policía;seguridad;ayuntamiento"
+  },
+  {
+    "nombre": "Bomberos de Valladolid",
+    "url": "https://www.valladolid.es/es/temas/hacemos/bomberos",
+    "descripcion": "Servicio de bomberos municipal.",
+    "categoria": "Seguridad",
+    "oficial": true,
+    "etiquetas": "bomberos;emergencias"
+  },
+  {
+    "nombre": "Protección Civil Valladolid",
+    "url": "https://www.valladolid.es/es/temas/hacemos/proteccion-civil",
+    "descripcion": "Voluntariado y emergencias.",
+    "categoria": "Seguridad",
+    "oficial": true,
+    "etiquetas": "protección-civil;emergencias;voluntariado"
+  },
+  {
+    "nombre": "Junta de Cofradías Sede",
+    "url": "https://jcssva.org/contacto",
+    "descripcion": "Datos de contacto y sede física.",
+    "categoria": "Religión y tradiciones",
+    "oficial": true,
+    "etiquetas": "Semana-Santa;contacto"
+  },
+  {
+    "nombre": "Parque Tecnológico de Boecillo (Junta)",
+    "url": "https://empresas.jcyl.es/web/es/suelo-industrial-tecnologico/parque-tecnologico-boecillo.html",
+    "descripcion": "Principal parque tecnológico (área metro Valladolid).",
+    "categoria": "Tecnología",
+    "oficial": true,
+    "etiquetas": "parque-tecnológico;Boecillo;empresas"
+  },
+  {
+    "nombre": "CARTIF (Centro tecnológico)",
+    "url": "https://www.cartif.es",
+    "descripcion": "Centro tecnológico privado en Boecillo.",
+    "categoria": "Tecnología",
+    "oficial": false,
+    "etiquetas": "I+D;Cartif;centro-tecnológico"
+  },
+  {
+    "nombre": "CIDAUT",
+    "url": "https://www.cidaut.es",
+    "descripcion": "Fundación I+D en transporte y energía.",
+    "categoria": "Tecnología",
+    "oficial": false,
+    "etiquetas": "I+D;automoción;energía"
+  },
+  {
+    "nombre": "AETICAL (TIC CyL)",
+    "url": "https://www.aetical.com",
+    "descripcion": "Federación TIC con sede en Valladolid.",
+    "categoria": "Tecnología",
+    "oficial": false,
+    "etiquetas": "TIC;federación;empresas"
+  },
+  {
+    "nombre": "Coworking Lanzadera IDEVA",
+    "url": "https://www.ideva.es/coworking",
+    "descripcion": "Coworking municipal gratuito para emprendedores.",
+    "categoria": "Tecnología y empresa",
+    "oficial": true,
+    "etiquetas": "coworking;emprendimiento;IDEVA"
+  },
+  {
+    "nombre": "Hotel Olid (Silken)",
+    "url": "https://www.hotelolid.com",
+    "descripcion": "Hotel céntrico con blog turístico de la ciudad.",
+    "categoria": "Alojamiento",
+    "oficial": false,
+    "etiquetas": "hotel;centro;Silken"
+  },
+  {
+    "nombre": "Hoteles Silken Valladolid",
+    "url": "https://www.hoteles-silken.com/hoteles/valladolid",
+    "descripcion": "Hoteles de cadena Silken en Valladolid.",
+    "categoria": "Alojamiento",
+    "oficial": false,
+    "etiquetas": "hotel;cadena;Silken"
+  },
+  {
+    "nombre": "AC Hotel Palacio de Santa Ana",
+    "url": "https://www.marriott.com/es/hotels/vlladv-ac-hotel-palacio-de-santa-ana/overview",
+    "descripcion": "Hotel histórico Marriott en Arroyo (área metro).",
+    "categoria": "Alojamiento",
+    "oficial": false,
+    "etiquetas": "hotel;histórico;Marriott"
+  },
+  {
+    "nombre": "NH Bálago / Ciudad de Valladolid",
+    "url": "https://www.nh-hoteles.com",
+    "descripcion": "Hoteles NH en la ciudad.",
+    "categoria": "Alojamiento",
+    "oficial": false,
+    "etiquetas": "hotel;NH"
+  },
+  {
+    "nombre": "Hotel Felipe IV",
+    "url": "https://www.hfelipeiv.com",
+    "descripcion": "Hotel céntrico junto a la calle Gamazo.",
+    "categoria": "Alojamiento",
+    "oficial": false,
+    "etiquetas": "hotel;centro"
+  },
+  {
+    "nombre": "Hotel Lasa Sport",
+    "url": "https://www.hotellasasport.com",
+    "descripcion": "Hotel Lasa Sport, ligado a Pingüinos.",
+    "categoria": "Alojamiento",
+    "oficial": false,
+    "etiquetas": "hotel;Pingüinos"
+  },
+  {
+    "nombre": "Albergue Juvenil Río Esgueva",
+    "url": "https://juventud.jcyl.es",
+    "descripcion": "Albergue juvenil de la Junta en Valladolid.",
+    "categoria": "Alojamiento",
+    "oficial": true,
+    "etiquetas": "albergue;juvenil;Junta"
+  },
+  {
+    "nombre": "Booking Valladolid (referencia)",
+    "url": "https://www.booking.com/city/es/valladolid.html",
+    "descripcion": "Plataforma global con catálogo de alojamientos en la ciudad.",
+    "categoria": "Alojamiento",
+    "oficial": false,
+    "etiquetas": "booking;hoteles;reservas"
+  },
+  {
+    "nombre": "Cines Broadway",
+    "url": "https://cbroadway.net",
+    "descripcion": "Cines Broadway y Manhattan, salas independientes locales.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "cine;Broadway;Manhattan"
+  },
+  {
+    "nombre": "Cines Manhattan",
+    "url": "https://cbroadway.net/manhattan.html",
+    "descripcion": "Cines Manhattan (mismo grupo Broadway).",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "cine;Manhattan"
+  },
+  {
+    "nombre": "Cine Yelmo Vallsur",
+    "url": "https://yelmocines.es/cartelera/valladolid/vallsur",
+    "descripcion": "Cine Yelmo Premium en Vallsur.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "cine;Yelmo;Vallsur"
+  },
+  {
+    "nombre": "Cine Casablanca",
+    "url": "https://www.cinecasablanca.com",
+    "descripcion": "Cine independiente en pleno centro.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "cine;independiente;Casablanca"
+  },
+  {
+    "nombre": "OCine Río Shopping",
+    "url": "https://www.ocine.es/cine/rio-shopping",
+    "descripcion": "Multicines en Río Shopping.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "cine;OCine;Río-Shopping"
+  },
+  {
+    "nombre": "MÕSS Club",
+    "url": "https://www.facebook.com/mossclubvalladolid",
+    "descripcion": "Sala de conciertos y discoteca en Avd. Ramón Pradera.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "sala-conciertos;discoteca;ocio-nocturno;salas"
+  },
+  {
+    "nombre": "Sala Porta Caeli",
+    "url": "https://www.salaportacaeli.com",
+    "descripcion": "Sala de conciertos en San Quirce/Cuesta de la Maruquesa.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "sala-conciertos;música;salas"
+  },
+  {
+    "nombre": "Sala Cientocero",
+    "url": "https://www.salacientocero.com",
+    "descripcion": "Sala de conciertos abierta en 2021.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "sala-conciertos;música-en-vivo;salas"
+  },
+  {
+    "nombre": "Sala Black Pearl",
+    "url": "https://www.facebook.com/salablackpearlVll",
+    "descripcion": "Sala emblemática de música rock.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "sala;rock;directo;salas"
+  },
+  {
+    "nombre": "Galerías VA",
+    "url": "https://cultura.valladolid.es/centros/galerias-va",
+    "descripcion": "Centro de creación municipal en antiguas galerías López Gómez.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "residencias;creación;FMC;espacios"
+  },
+  {
+    "nombre": "Casa Revilla",
+    "url": "https://cultura.valladolid.es/centros/casa-revilla",
+    "descripcion": "Sala municipal de exposiciones, sede de la FMC.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "exposiciones;FMC;sala;espacios"
+  },
+  {
+    "nombre": "Iglesia de las Francesas (sala)",
+    "url": "https://cultura.valladolid.es/centros/sala-municipal-de-exposiciones-iglesia-de-las-francesas",
+    "descripcion": "Sala municipal de exposiciones.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "exposiciones;FMC;espacios"
+  },
+  {
+    "nombre": "Museo de la Pasión (sala)",
+    "url": "https://cultura.valladolid.es/centros/museo-de-la-pasion",
+    "descripcion": "Sala municipal de exposiciones (Museo de la Pasión).",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "exposiciones;FMC;Pasión;espacios"
+  },
+  {
+    "nombre": "Archivo Municipal de Valladolid",
+    "url": "https://www.valladolid.es/es/ayuntamiento/archivo-municipal",
+    "descripcion": "Archivo histórico municipal.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "archivo;ayuntamiento;histórico;patrimonio"
+  },
+  {
+    "nombre": "Archivo Histórico Provincial",
+    "url": "https://archivoscastillayleon.jcyl.es",
+    "descripcion": "Archivo Histórico Provincial de Valladolid.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "archivo;Junta;histórico;patrimonio"
+  },
+  {
+    "nombre": "Archivo de la Real Chancillería",
+    "url": "https://www.cultura.gob.es/archivos-aranchva",
+    "descripcion": "Archivo estatal de la Chancillería en Valladolid.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "archivo;estatal;Chancillería;patrimonio"
+  },
+  {
+    "nombre": "Callejero municipal Valladolid",
+    "url": "https://www.valladolid.es/callejero",
+    "descripcion": "Callejero oficial online.",
+    "categoria": "Herramientas",
+    "oficial": true,
+    "etiquetas": "callejero;mapa;ayuntamiento"
+  },
+  {
+    "nombre": "Cita previa Padrón Ayuntamiento",
+    "url": "https://www.valladolid.es/es/temas/hacemos/padron-municipal",
+    "descripcion": "Información y cita para padrón municipal.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "padrón;cita-previa;empadronamiento"
+  },
+  {
+    "nombre": "Carpeta Ciudadana Valladolid",
+    "url": "https://www.valladolid.gob.es/es/carpeta-ciudadana",
+    "descripcion": "Acceso a expedientes y notificaciones del ciudadano.",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "carpeta;e-administración;ciudadano"
+  },
+  {
+    "nombre": "Plan General de Ordenación Urbana (PGOU)",
+    "url": "https://www.valladolid.es/es/temas/hacemos/pgou",
+    "descripcion": "Información urbanística y planeamiento.",
+    "categoria": "Urbanismo",
+    "oficial": true,
+    "etiquetas": "urbanismo;PGOU;planeamiento"
+  },
+  {
+    "nombre": "Pinar de Antequera (info turismo)",
+    "url": "https://www.info.valladolid.es/-/lugares-parques-jardines-y-plazas-pinar-de-antequera",
+    "descripcion": "Ficha del Pinar de Antequera, principal pulmón verde.",
+    "categoria": "Medio ambiente",
+    "oficial": true,
+    "etiquetas": "parque;Pinar-Antequera;naturaleza"
+  },
+  {
+    "nombre": "Campo Grande (info turismo)",
+    "url": "https://www.info.valladolid.es/detalle-plazas-parques-y-jardines",
+    "descripcion": "Información del parque Campo Grande y otros parques.",
+    "categoria": "Medio ambiente",
+    "oficial": true,
+    "etiquetas": "parque;Campo-Grande;centro"
+  },
+  {
+    "nombre": "Parque de Aventuras Talleres del Pinar",
+    "url": "https://www.tallerespinarvalladolid.org",
+    "descripcion": "Parque de aventuras gestionado por fundación local.",
+    "categoria": "Medio ambiente",
+    "oficial": false,
+    "etiquetas": "aventura;Pinar;ocio-familiar;ocio"
+  },
+  {
+    "nombre": "Aula Medio Ambiente Caja Burgos",
+    "url": "https://www.fundacioncajadeburgos.es/aulas-medio-ambiente",
+    "descripcion": "Aula medioambiental con sede en Valladolid.",
+    "categoria": "Medio ambiente",
+    "oficial": false,
+    "etiquetas": "educación-ambiental;Caja-Burgos"
+  },
+  {
+    "nombre": "Plaza de Toros de Valladolid",
+    "url": "https://www.plazatorosvalladolid.com",
+    "descripcion": "Plaza de toros y eventos taurinos.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "toros;plaza;feria-taurina;eventos"
+  },
+  {
+    "nombre": "Estadio José Zorrilla",
+    "url": "https://www.realvalladolid.es/estadio-jose-zorrilla",
+    "descripcion": "Estadio municipal sede del Real Valladolid.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "estadio;fútbol;José-Zorrilla;instalaciones"
+  },
+  {
+    "nombre": "Polideportivo Pisuerga (FMD)",
+    "url": "https://www.fmdva.org/instalaciones/listado-de-instalaciones/polideportivo-pisuerga",
+    "descripcion": "Polideportivo Pisuerga, sede de eventos deportivos.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "polideportivo;Pisuerga;FMD;instalaciones"
+  },
+  {
+    "nombre": "Campos Pepe Rojo (FMD)",
+    "url": "https://www.fmdva.org/instalaciones/listado-de-instalaciones/campos-pepe-rojo",
+    "descripcion": "Complejo deportivo de rugby (VRAC y El Salvador).",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "rugby;Pepe-Rojo;FMD;instalaciones"
+  },
+  {
+    "nombre": "Valladolid Web (histórico/divulgación)",
+    "url": "https://www.valladolidweb.es",
+    "descripcion": "Portal independiente con historia, calles y patrimonio.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "historia;blog;patrimonio;divulgación"
+  },
+  {
+    "nombre": "Pucela.com",
+    "url": "https://www.pucela.com",
+    "descripcion": "Portal local de noticias y servicios (histórico).",
+    "categoria": "Medios",
+    "oficial": false,
+    "etiquetas": "comunidad;Pucela;blog"
+  },
+  {
+    "nombre": "Foro Pucela.com",
+    "url": "https://forum.pucela.com",
+    "descripcion": "Foro local sobre Valladolid (Real Valladolid y ciudad).",
+    "categoria": "Medios",
+    "oficial": false,
+    "etiquetas": "foro;comunidad;Pucela"
+  },
+  {
+    "nombre": "Arrabal de Portillo / La 8",
+    "url": "https://la8valladolid.es",
+    "descripcion": "Programación La 8 Valladolid (TV local).",
+    "categoria": "Medios",
+    "oficial": false,
+    "etiquetas": "TV-local;La-8"
+  },
+  {
+    "nombre": "Sociedad Mixta de Turismo (visitavalladolid)",
+    "url": "https://www.visitavalladolid.com",
+    "descripcion": "Web turística oficial gestionada por la Sociedad Mixta.",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "turismo;visitas-guiadas;Valladolid-Card"
+  },
+  {
+    "nombre": "Alimentos de Valladolid",
+    "url": "https://www.alimentosdevalladolid.es",
+    "descripcion": "Marca de garantía de alimentos producidos en la provincia.",
+    "categoria": "Gastronomía",
+    "oficial": true,
+    "etiquetas": "alimentos;marca;Diputación"
+  },
+  {
+    "nombre": "Federación Casas Regionales",
+    "url": "https://www.casasregionalesvalladolid.com",
+    "descripcion": "Federación de casas regionales y provinciales en CyL.",
+    "categoria": "Asociaciones",
+    "oficial": false,
+    "etiquetas": "casas-regionales;cultura;ferias"
+  },
+  {
+    "nombre": "Coordinadora de Peñas",
+    "url": "https://www.coordinadoradepenasvalladolid.com",
+    "descripcion": "Peñas vallisoletanas, organizan eventos en fiestas.",
+    "categoria": "Asociaciones",
+    "oficial": false,
+    "etiquetas": "peñas;fiestas;tradición"
+  },
+  {
+    "nombre": "Vallanoche",
+    "url": "https://www.vallanoche.es",
+    "descripcion": "Programa municipal de ocio nocturno alternativo.",
+    "categoria": "Juventud",
+    "oficial": true,
+    "etiquetas": "ocio;juventud;ayuntamiento"
+  },
+  {
+    "nombre": "Asociación de Confiteros de Valladolid",
+    "url": "https://www.confiterosvalladolid.es",
+    "descripcion": "Asociación de empresarios de confitería.",
+    "categoria": "Gastronomía",
+    "oficial": false,
+    "etiquetas": "confitería;asociación"
+  },
+  {
+    "nombre": "Asociación Belenista Castellana",
+    "url": "https://www.belenistacastellana.es",
+    "descripcion": "Asociación que organiza el Belén Monumental.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "belén;Navidad;tradición;tradiciones"
+  },
+  {
+    "nombre": "ACEVA – Ceramistas Vallisoletanos",
+    "url": "https://www.aceva.es",
+    "descripcion": "Asociación de ceramistas, organizan Feria de Cerámica.",
+    "categoria": "Asociaciones",
+    "oficial": false,
+    "etiquetas": "cerámica;artesanía;feria;cultura"
+  },
+  {
+    "nombre": "Unión Artística Vallisoletana",
+    "url": "https://www.unionartisticavallisoletana.es",
+    "descripcion": "Asociación artística local, certámenes de pintura.",
+    "categoria": "Asociaciones",
+    "oficial": false,
+    "etiquetas": "pintura;arte;certamen;cultura"
+  },
+  {
+    "nombre": "Centro Astronómico Valladolid (Museo Ciencia)",
+    "url": "https://www.museocienciavalladolid.es/planetario",
+    "descripcion": "Planetario y astronomía vinculado al Museo de la Ciencia.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "astronomía;planetario;FMC;ciencia"
+  },
+  {
+    "nombre": "Ateneo de Valladolid",
+    "url": "https://www.ateneovalladolid.org",
+    "descripcion": "Asociación cultural decana, premios y conferencias.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "ateneo;cultura;literatura"
+  },
+  {
+    "nombre": "Casa de la India",
+    "url": "https://www.casadelaindia.org",
+    "descripcion": "Centro cultural fruto de convenio entre la UVa y la Embajada de la India.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "India;cultura;UVa"
+  },
+  {
+    "nombre": "Real Academia de Bellas Artes",
+    "url": "https://www.real-academia-de-bellas-artes-de-valladolid.es",
+    "descripcion": "Real Academia de Bellas Artes de la Purísima Concepción.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "academia;bellas-artes;patrimonio"
+  },
+  {
+    "nombre": "Asociación Provincial Hostelería Valladolid",
+    "url": "https://www.hosteleriavalladolid.com",
+    "descripcion": "Concursos de pinchos, formación, ocio.",
+    "categoria": "Hostelería",
+    "oficial": false,
+    "etiquetas": "hostelería;asociación;concurso-pinchos"
+  },
+  {
+    "nombre": "Pingüinos Arena (Antigua Hípica Militar)",
+    "url": "https://www.clubturismoto.com/pinguinos",
+    "descripcion": "Recinto de la concentración Pingüinos.",
+    "categoria": "Festivales",
+    "oficial": false,
+    "etiquetas": "recinto;Pingüinos;motos;espacios"
+  },
+  {
+    "nombre": "Servicio de Comercio y Mercados (Ayto.)",
+    "url": "https://www.valladolid.es/es/temas/hacemos/comercio-mercados",
+    "descripcion": "Servicio municipal de comercio, ferias y mercados.",
+    "categoria": "Comercio",
+    "oficial": true,
+    "etiquetas": "comercio;ayuntamiento;mercados"
+  },
+  {
+    "nombre": "Plan Estratégico de Turismo",
+    "url": "https://www.info.valladolid.es/plan-estrategico-turismo",
+    "descripcion": "Plan estratégico municipal de turismo.",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "plan;estrategia;turismo"
+  },
+  {
+    "nombre": "Fundación Miguel Delibes",
+    "url": "https://www.fundacionmigueldelibes.es",
+    "descripcion": "Fundación dedicada al escritor vallisoletano.",
+    "categoria": "Cultura",
+    "oficial": false,
+    "etiquetas": "Delibes;fundación;literatura"
+  },
+  {
+    "nombre": "Centro de la Cultura del Vino (Las Catalinas)",
+    "url": "https://www.valladolid.es/centro-cultura-vino",
+    "descripcion": "Próximo centro municipal sobre la cultura del vino.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "vino;cultura;ayuntamiento"
+  },
+  {
+    "nombre": "Misión Valladolid 2030",
+    "url": "https://www.valladolidnow.es",
+    "descripcion": "Misión Ciudad Inteligente y Climáticamente Neutra 2030.",
+    "categoria": "Innovación",
+    "oficial": true,
+    "etiquetas": "misión;clima;UE;2030"
+  },
+  {
+    "nombre": "Ríos de Luz",
+    "url": "https://www.info.valladolid.es/rios-de-luz",
+    "descripcion": "Programa municipal de iluminación monumental.",
+    "categoria": "Cultura",
+    "oficial": true,
+    "etiquetas": "iluminación;monumentos;turismo"
+  },
+  {
+    "nombre": "Festival ValladolidJazz",
+    "url": "https://valladolidjazz.com",
+    "descripcion": "Ciclo de jazz organizado por la FMC en el LAVA.",
+    "categoria": "Festivales",
+    "oficial": true,
+    "etiquetas": "jazz;FMC;LAVA;música"
+  },
+  {
+    "nombre": "Jornadas Flamencas Ciudad de Valladolid",
+    "url": "https://cultura.valladolid.es/programas-y-ciclos/jornadas-flamencas",
+    "descripcion": "Ciclo flamenco programado por la FMC.",
+    "categoria": "Festivales",
+    "oficial": true,
+    "etiquetas": "flamenco;FMC;música"
+  },
+  {
+    "nombre": "Festival Jazz Castilla y León",
+    "url": "https://festivaldejazzcyl.com",
+    "descripcion": "Festival regional con sede principal en Valladolid.",
+    "categoria": "Festivales",
+    "oficial": false,
+    "etiquetas": "jazz;festival;regional;música"
+  },
+  {
+    "nombre": "Cinhomo",
+    "url": "https://cinhomo.es",
+    "descripcion": "Festival LGTBI de cine en Valladolid.",
+    "categoria": "Festivales",
+    "oficial": false,
+    "etiquetas": "LGTBI;cine;festival"
+  },
+  {
+    "nombre": "Salón del Cómic y Manga Valladolid",
+    "url": "https://saloncomicvalladolid.com",
+    "descripcion": "Salón anual del cómic y manga.",
+    "categoria": "Festivales",
+    "oficial": false,
+    "etiquetas": "cómic;manga;salón;cultura"
+  },
+  {
+    "nombre": "INTUR (Feria turismo interior)",
+    "url": "https://feriavalladolid.com/intur",
+    "descripcion": "Feria internacional del turismo de interior.",
+    "categoria": "Eventos",
+    "oficial": true,
+    "etiquetas": "feria;turismo;INTUR"
+  },
+  {
+    "nombre": "Fimascota",
+    "url": "https://feriavalladolid.com/fimascota",
+    "descripcion": "Feria de animales de compañía.",
+    "categoria": "Eventos",
+    "oficial": true,
+    "etiquetas": "feria;mascotas"
+  },
+  {
+    "nombre": "Feriauto Valladolid",
+    "url": "https://feriavalladolid.com/feriauto",
+    "descripcion": "Salón del automóvil.",
+    "categoria": "Eventos",
+    "oficial": true,
+    "etiquetas": "feria;automóvil"
+  },
+  {
+    "nombre": "Trolebus.es / valladolid (movilidad)",
+    "url": "https://www.trolebus.es",
+    "descripcion": "Recursos de movilidad y transporte.",
+    "categoria": "Transporte",
+    "oficial": false,
+    "etiquetas": "transporte;blog"
+  },
+  {
+    "nombre": "Hosteleria Digital",
+    "url": "https://www.hosteleriadigital.es",
+    "descripcion": "Medio especializado en hostelería con cobertura local.",
+    "categoria": "Medios",
+    "oficial": false,
+    "etiquetas": "hostelería;medio;blog;gastronomía"
+  },
+  {
+    "nombre": "Fundación Municipal Deportes – Listado",
+    "url": "https://www.fmdva.org/instalaciones",
+    "descripcion": "Listado completo de instalaciones deportivas municipales.",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "instalaciones;FMD;polideportivos"
+  },
+  {
+    "nombre": "Ayuntamiento de Valladolid",
+    "url": "https://www.valladolid.es",
+    "descripcion": "Portal web institucional del Ayuntamiento de Valladolid",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "ayuntamiento;institucional;ciudadanía;noticias"
+  },
+  {
+    "nombre": "Sede Electrónica",
+    "url": "https://www.valladolid.gob.es",
+    "descripcion": "Sede electrónica oficial: trámites, tablón, perfil contratante",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "sede-electrónica;trámites;e-administración"
+  },
+  {
+    "nombre": "Sede Electrónica (alternativa)",
+    "url": "https://sede.valladolid.es",
+    "descripcion": "Acceso alternativo a la sede electrónica",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "sede-electrónica;trámites"
+  },
+  {
+    "nombre": "Portal de Transparencia",
+    "url": "https://www.valladolid.es/es/ayuntamiento/portal-transparencia",
+    "descripcion": "Información económica y normativa municipal",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "transparencia;datos-abiertos"
+  },
+  {
+    "nombre": "Portal de Participación",
+    "url": "https://www.valladolid.es/participa",
+    "descripcion": "Plataforma de participación ciudadana",
+    "categoria": "Administración pública",
+    "oficial": true,
+    "etiquetas": "participación;asociaciones;democracia"
+  },
+  {
+    "nombre": "Portal de Cultura y Turismo",
+    "url": "https://www.info.valladolid.es",
+    "descripcion": "Portal turístico oficial del Ayuntamiento",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "turismo;agenda;cultura"
+  },
+  {
+    "nombre": "IDEVA Agencia de Innovación",
+    "url": "https://www.ideva.es",
+    "descripcion": "Agencia municipal de innovación y desarrollo",
+    "categoria": "Economía",
+    "oficial": true,
+    "etiquetas": "innovación;coworking"
+  },
+  {
+    "nombre": "AUVASA",
+    "url": "https://www.auvasa.es",
+    "descripcion": "Empresa municipal de autobuses urbanos",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "autobuses;movilidad"
+  },
+  {
+    "nombre": "AQUAVALL",
+    "url": "https://aquavall.es",
+    "descripcion": "Entidad pública del agua",
+    "categoria": "Servicios municipales",
+    "oficial": true,
+    "etiquetas": "agua;ciclo-integral"
+  },
+  {
+    "nombre": "VIVA",
+    "url": "https://www.vivavalladolid.es",
+    "descripcion": "Sociedad municipal de suelo y vivienda",
+    "categoria": "Vivienda",
+    "oficial": true,
+    "etiquetas": "vivienda;suelo"
+  },
+  {
+    "nombre": "Feria de Valladolid",
+    "url": "https://www.feriavalladolid.com",
+    "descripcion": "Recinto ferial: ferias y congresos",
+    "categoria": "Eventos",
+    "oficial": true,
+    "etiquetas": "feria;congresos"
+  },
+  {
+    "nombre": "ZBE Valladolid",
+    "url": "https://zbe.valladolid.es",
+    "descripcion": "Plataforma de la Zona de Bajas Emisiones",
+    "categoria": "Movilidad",
+    "oficial": true,
+    "etiquetas": "ZBE;movilidad;medio-ambiente"
+  },
+  {
+    "nombre": "Valladolid ORA",
+    "url": "https://valladolidora.com",
+    "descripcion": "Estacionamiento regulado",
+    "categoria": "Movilidad",
+    "oficial": true,
+    "etiquetas": "ORA;aparcamiento"
+  },
+  {
+    "nombre": "VallaBus",
+    "url": "https://vallabus.com",
+    "descripcion": "App no oficial horarios bus AUVASA",
+    "categoria": "Transporte",
+    "oficial": false,
+    "etiquetas": "bus;app;no-oficial"
+  },
+  {
+    "nombre": "Renfe Campo Grande",
+    "url": "https://www.renfe.com/es/es/inspirate/estaciones/valladolid-campo-grande",
+    "descripcion": "Estación AVE/LD/MD",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "tren;AVE"
+  },
+  {
+    "nombre": "Adif Valladolid",
+    "url": "https://www.adif.es/w/10600-valladolid-c.-g.",
+    "descripcion": "Estación de Valladolid Campo Grande",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "Adif;tren"
+  },
+  {
+    "nombre": "Aeropuerto Valladolid (Aena)",
+    "url": "https://www.aena.es/es/valladolid.html",
+    "descripcion": "Aeropuerto de Villanubla",
+    "categoria": "Transporte",
+    "oficial": true,
+    "etiquetas": "aeropuerto;Aena"
+  },
+  {
+    "nombre": "Linecar",
+    "url": "https://www.linecar.es",
+    "descripcion": "Bus aeropuerto y rutas regionales",
+    "categoria": "Transporte",
+    "oficial": false,
+    "etiquetas": "bus;aeropuerto"
+  },
+  {
+    "nombre": "Provincia de Valladolid",
+    "url": "https://www.provinciadevalladolid.com",
+    "descripcion": "Diputación-turismo provincial",
+    "categoria": "Cultura y turismo",
+    "oficial": true,
+    "etiquetas": "Diputación;turismo"
+  },
+  {
+    "nombre": "Valladolid.com",
+    "url": "https://www.valladolid.com",
+    "descripcion": "Guía turística no oficial",
+    "categoria": "Cultura y turismo",
+    "oficial": false,
+    "etiquetas": "guía;turismo"
+  },
+  {
+    "nombre": "La Guía Go",
+    "url": "https://www.laguiago.com/valladolid",
+    "descripcion": "Agenda cultural",
+    "categoria": "Agenda",
+    "oficial": false,
+    "etiquetas": "agenda;cultura"
+  },
+  {
+    "nombre": "Chiquiocio",
+    "url": "https://www.chiquiocio.com/agenda",
+    "descripcion": "Agenda familiar",
+    "categoria": "Agenda",
+    "oficial": false,
+    "etiquetas": "familia;niños"
+  },
+  {
+    "nombre": "Museo de Valladolid",
+    "url": "https://museoscastillayleon.jcyl.es/museodevalladolid",
+    "descripcion": "Museo provincial Fabio Nelli",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;arqueología"
+  },
+  {
+    "nombre": "Museo de la Ciencia",
+    "url": "https://www.museocienciavalladolid.es",
+    "descripcion": "Museo y planetario municipal",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "ciencia;planetario"
+  },
+  {
+    "nombre": "Casa Cervantes",
+    "url": "https://www.cultura.gob.es/museocasacervantes/portada.html",
+    "descripcion": "Casa-museo de Cervantes",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;Cervantes"
+  },
+  {
+    "nombre": "Casa Zorrilla",
+    "url": "https://museoscastillayleon.jcyl.es/web/jcyl/MuseosCastillayLeon/es/Plantilla100Detalle/1284811314466/Institucion/1284809941628/DirectorioPadre",
+    "descripcion": "Casa natal de Zorrilla",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;Zorrilla"
+  },
+  {
+    "nombre": "Museo Oriental",
+    "url": "https://www.museo-oriental.es",
+    "descripcion": "Arte oriental Agustinos Filipinos",
+    "categoria": "Museos",
+    "oficial": false,
+    "etiquetas": "museo;oriental"
+  },
+  {
+    "nombre": "MUVa",
+    "url": "https://www.uva.es/export/sites/uva/6.vidauniversitaria/6.01.cultura/6.01.05.museos/",
+    "descripcion": "Museo de la UVa",
+    "categoria": "Museos",
+    "oficial": true,
+    "etiquetas": "museo;UVa"
+  },
+  {
+    "nombre": "LAVA",
+    "url": "https://lavavll.es",
+    "descripcion": "Laboratorio de las Artes (FMC)",
+    "categoria": "Cultura escénica",
+    "oficial": true,
+    "etiquetas": "artes-escénicas;FMC"
+  },
+  {
+    "nombre": "SEMINCI",
+    "url": "https://www.seminci.com",
+    "descripcion": "Festival Internacional de Cine",
+    "categoria": "Festivales",
+    "oficial": true,
+    "etiquetas": "cine;festival"
+  },
+  {
+    "nombre": "TAC",
+    "url": "https://tacva.org",
+    "descripcion": "Festival Teatro y Artes de Calle",
+    "categoria": "Festivales",
+    "oficial": true,
+    "etiquetas": "teatro-calle;festival"
+  },
+  {
+    "nombre": "Pingüinos / Club Turismoto",
+    "url": "https://www.clubturismoto.com",
+    "descripcion": "Concentración motera invernal",
+    "categoria": "Festivales",
+    "oficial": false,
+    "etiquetas": "motos;concentración"
+  },
+  {
+    "nombre": "Junta de Cofradías",
+    "url": "https://jcssva.org",
+    "descripcion": "Semana Santa de Valladolid",
+    "categoria": "Religión",
+    "oficial": true,
+    "etiquetas": "Semana-Santa;cofradías"
+  },
+  {
+    "nombre": "Archidiócesis Valladolid",
+    "url": "https://www.archivalladolid.org",
+    "descripcion": "Arzobispado de Valladolid",
+    "categoria": "Religión",
+    "oficial": true,
+    "etiquetas": "iglesia;parroquias"
+  },
+  {
+    "nombre": "UVa",
+    "url": "https://www.uva.es",
+    "descripcion": "Universidad pública de Valladolid",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "universidad;UVa"
+  },
+  {
+    "nombre": "UEMC",
+    "url": "https://www.uemc.es",
+    "descripcion": "Universidad privada Miguel de Cervantes",
+    "categoria": "Educación",
+    "oficial": true,
+    "etiquetas": "universidad;UEMC"
+  },
+  {
+    "nombre": "ESI Valladolid",
+    "url": "https://www.esivalladolid.com",
+    "descripcion": "Escuela Superior de Diseño",
+    "categoria": "Educación",
+    "oficial": false,
+    "etiquetas": "diseño;ESI"
+  },
+  {
+    "nombre": "Bibliotecas Municipales",
+    "url": "https://www.valladolid.es/es/temas/hacemos/bibliotecas",
+    "descripcion": "Red de bibliotecas municipales",
+    "categoria": "Bibliotecas",
+    "oficial": true,
+    "etiquetas": "biblioteca;FMC"
+  },
+  {
+    "nombre": "Biblioteca Pública CyL",
+    "url": "https://bibliotecas.jcyl.es",
+    "descripcion": "Biblioteca pública JCyL",
+    "categoria": "Bibliotecas",
+    "oficial": true,
+    "etiquetas": "biblioteca;Junta"
+  },
+  {
+    "nombre": "Hospital Clínico",
+    "url": "https://www.saludcastillayleon.es/HClinicoUniversitario",
+    "descripcion": "Hospital público Clínico",
+    "categoria": "Salud",
+    "oficial": true,
+    "etiquetas": "hospital;Sacyl"
+  },
+  {
+    "nombre": "Hospital Río Hortega",
+    "url": "https://www.saludcastillayleon.es/HRHortega",
+    "descripcion": "Hospital público Río Hortega",
+    "categoria": "Salud",
+    "oficial": true,
+    "etiquetas": "hospital;Sacyl"
+  },
+  {
+    "nombre": "Sacyl",
+    "url": "https://www.saludcastillayleon.es",
+    "descripcion": "Servicio autonómico de salud",
+    "categoria": "Salud",
+    "oficial": true,
+    "etiquetas": "Sacyl;sanidad"
+  },
+  {
+    "nombre": "Hospital Recoletas",
+    "url": "https://www.recoletas.com/hospitales/valladolid",
+    "descripcion": "Hospital privado Recoletas",
+    "categoria": "Salud",
+    "oficial": false,
+    "etiquetas": "hospital;privado"
+  },
+  {
+    "nombre": "Real Valladolid",
+    "url": "https://www.realvalladolid.es",
+    "descripcion": "Club de fútbol",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "fútbol;LaLiga"
+  },
+  {
+    "nombre": "VRAC",
+    "url": "https://vracrugby.com",
+    "descripcion": "Club de rugby VRAC",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "rugby"
+  },
+  {
+    "nombre": "Atlético Valladolid",
+    "url": "https://www.atleticovalladolid.com",
+    "descripcion": "Club balonmano",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "balonmano"
+  },
+  {
+    "nombre": "Media Maratón Valladolid",
+    "url": "https://www.mediamaratonvalladolid.com",
+    "descripcion": "Media Maratón ciudad",
+    "categoria": "Deporte",
+    "oficial": true,
+    "etiquetas": "running;media-maratón"
+  },
+  {
+    "nombre": "Diario de Valladolid",
+    "url": "https://www.diariodevalladolid.es",
+    "descripcion": "Promecal",
+    "categoria": "Medios",
+    "oficial": false,
+    "etiquetas": "prensa;Promecal"
+  },
+  {
+    "nombre": "CyLTV",
+    "url": "https://www.cyltv.es",
+    "descripcion": "TV autonómica",
+    "categoria": "Medios",
+    "oficial": false,
+    "etiquetas": "televisión;autonómica"
+  },
+  {
+    "nombre": "SER Valladolid",
+    "url": "https://cadenaser.com/emisora/radio_valladolid",
+    "descripcion": "Radio SER",
+    "categoria": "Medios",
+    "oficial": false,
+    "etiquetas": "radio"
+  },
+  {
+    "nombre": "Mercados de Valladolid",
+    "url": "https://www.mercadosdevalladolid.com",
+    "descripcion": "E-commerce de mercados",
+    "categoria": "Comercio",
+    "oficial": true,
+    "etiquetas": "e-commerce;mercados"
+  },
+  {
+    "nombre": "Vallsur",
+    "url": "https://vallsur.com",
+    "descripcion": "Centro comercial Vallsur",
+    "categoria": "Comercio",
+    "oficial": false,
+    "etiquetas": "centro-comercial"
+  },
+  {
+    "nombre": "Río Shopping",
+    "url": "https://www.rioshopping.es",
+    "descripcion": "Centro comercial Río Shopping",
+    "categoria": "Comercio",
+    "oficial": false,
+    "etiquetas": "centro-comercial"
+  },
+  {
+    "nombre": "Cámara de Comercio",
+    "url": "https://www.camaravalladolid.com",
+    "descripcion": "Cámara de Comercio",
+    "categoria": "Economía",
+    "oficial": true,
+    "etiquetas": "cámara;empresa"
+  },
+  {
+    "nombre": "FECOSVA",
+    "url": "https://fecosva.com",
+    "descripcion": "Federación de Comercio",
+    "categoria": "Comercio",
+    "oficial": false,
+    "etiquetas": "federación;comercio"
+  },
+  {
+    "nombre": "Cáritas Valladolid",
+    "url": "https://www.caritasvalladolid.es",
+    "descripcion": "Cáritas Diocesana",
+    "categoria": "ONGs",
+    "oficial": true,
+    "etiquetas": "ONG;Cáritas"
+  },
+  {
+    "nombre": "Banco de Alimentos",
+    "url": "https://www.bancoalimentosvalladolid.org",
+    "descripcion": "Banco de alimentos",
+    "categoria": "ONGs",
+    "oficial": false,
+    "etiquetas": "ONG;alimentos"
+  },
+  {
+    "nombre": "Federación Vecinal Antonio Machado",
+    "url": "https://www.vecinosvalladolid.org",
+    "descripcion": "Federación de vecinos",
+    "categoria": "Asociaciones",
+    "oficial": false,
+    "etiquetas": "vecinos;federación"
+  },
+  {
+    "nombre": "Concurso Nacional Pinchos y Tapas",
+    "url": "https://www.concursonacionaldepinchosytapas.com",
+    "descripcion": "Concurso nacional y mundial",
+    "categoria": "Gastronomía",
+    "oficial": true,
+    "etiquetas": "tapas;concurso"
+  },
+  {
+    "nombre": "Pinar de Antequera",
+    "url": "https://www.info.valladolid.es/-/lugares-parques-jardines-y-plazas-pinar-de-antequera",
+    "descripcion": "Principal pulmón verde",
+    "categoria": "Medio ambiente",
+    "oficial": true,
+    "etiquetas": "parque;naturaleza"
+  }
+]

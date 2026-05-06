@@ -2,7 +2,18 @@ import './style.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 // Configuración y Variables de Estado
-const API_URL = 'https://proyectos.aldeapucela.org/api/v1/db/public/shared-view/e8c5d5a2-bdaa-47c8-96de-3b9195129e7f/rows?limit=1000';
+// Endpoint de producción (NocoDB)
+const NOCODB_API_URL = 'https://proyectos.aldeapucela.org/api/v1/db/public/shared-view/e8c5d5a2-bdaa-47c8-96de-3b9195129e7f/rows?limit=1000';
+// Endpoint local de desarrollo (JSON)
+const LOCAL_JSON_URL = './json/recursos_valladolid_nocodb.json';
+
+// ==========================================
+// CAMBIA EL ENDPOINT AQUÍ SEGÚN LO NECESITES
+// ==========================================
+// Para producción (NocoDB):
+// const API_URL = NOCODB_API_URL;
+// Para desarrollo (JSON local):
+const API_URL = LOCAL_JSON_URL;
 
 let allData = [];
 let filteredData = [];
@@ -42,8 +53,11 @@ async function fetchData() {
     
     const data = await response.json();
     
+    // Adaptar si los datos vienen del JSON local (array directo) o de NocoDB ({ list: [...] })
+    const dataList = Array.isArray(data) ? data : data.list;
+
     // Normalizar datos
-    allData = data.list.map(row => {
+    allData = dataList.map(row => {
       // Parsear etiquetas (separadas por ;)
       let rowTags = [];
       if (row.etiquetas) {
